@@ -45,7 +45,6 @@ This project builds a machine learning model to predict the likelihood that a pe
     - Metrics: Accuracy, Precision, Recall, ROC AUC
 5. Prediction
     - Predictions generated for the test set
-    - Output file: `submission.csv`
 
 ---
 
