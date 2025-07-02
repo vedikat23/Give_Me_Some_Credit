@@ -57,13 +57,3 @@ This project builds a machine learning model to predict the likelihood that a pe
 | Precision     | 25%         |
 | Recall        | 57%         |
 | ROC AUC Score | ~0.82       |
-
----
-
-## Files in This Repo
-
-| File                        | Description                                  |
-|-----------------------------|----------------------------------------------|
-| `cs-training.csv`           | Original training data (from Kaggle)         |
-| `cs-testtest.csv`           | Original test data (from Kaggle)             |
-| `Give_Me_Some_Credit.ipynb` | Jupyter Notebook with full pipeline          |
