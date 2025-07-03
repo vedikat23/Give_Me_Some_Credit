@@ -52,7 +52,7 @@ This project builds a machine learning model to predict the likelihood that a pe
 
 | Metric        | Value       |
 |---------------|-------------|
-| Accuracy      | 85%         |
-| Precision     | 25%         |
-| Recall        | 57%         |
-| ROC AUC Score | ~0.82       |
+| Accuracy      | 88%         |
+| Precision     | 28%         |
+| Recall        | 55%         |
+| ROC AUC Score | ~0.83       |
